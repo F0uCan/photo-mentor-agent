@@ -1,4 +1,5 @@
 ☀️ Photography Journey: Seu Mentor AI & Espaço Criativo
+
 Photography Journey é uma ferramenta pensada para fotógrafos que buscam evoluir sua visão artística. Utilizando a inteligência do Google Gemini, o projeto analisa suas capturas (Canon T5i, iPhone 14 Pro ou qualquer outra câmera) para oferecer feedbacks construtivos sobre composição, técnica e edição.
 
 
