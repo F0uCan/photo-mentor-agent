@@ -1,0 +1,25 @@
+# Chaves e Segredos
+.env
+
+# Python (Arquivos temporários e cache)
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+
+# Docker
+.dockerignore
+
+# Dados do Usuário (Opcional: ignore se não quiser subir suas fotos de teste)
+app/journal.md
+app/challenges_history.json
+*.jpg
+*.jpeg
+*.png
+*.heic
+
+# Ambientes virtuais
+venv/
+env/
+.venv/
+.env

@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#FF8C42"    # Um laranja solar
+backgroundColor = "#FFF9F5" # Um off-white bem suave e quente
+secondaryBackgroundColor = "#FDE8D7" # Pêssego clarinho para os menus
+textColor = "#4A4A4A"       # Um cinza escuro (mais suave que o preto)
+font = "sans serif"

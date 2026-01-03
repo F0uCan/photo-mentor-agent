@@ -1,0 +1,11 @@
+services:
+  photo-mentor:
+    build: .
+    container_name: photo-mentor-agent
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env
+    volumes:
+      - .:/usr/src/app  # Mounts the whole project so changes in app/ are reflected
+    restart: unless-stopped
